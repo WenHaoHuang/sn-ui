@@ -1,0 +1,28 @@
+{
+    "name": "sn-ui",
+    "version": "1.0.0",
+    "description": "sn-ui",
+    "main": "index.js",
+    "scripts":
+    {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository":
+    {
+        "type": "git",
+        "url": "git+https://github.com/WenHaoHuang/sn-ui.git"
+    },
+    "keywords": [
+        "vue",
+        "webpack",
+        "ui",
+        "sn"
+    ],
+    "author": "wenhao.huang",
+    "license": "ISC",
+    "bugs":
+    {
+        "url": "https://github.com/WenHaoHuang/sn-ui/issues"
+    },
+    "homepage": "https://github.com/WenHaoHuang/sn-ui#readme"
+}
